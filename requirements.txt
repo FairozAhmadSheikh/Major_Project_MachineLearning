@@ -2,5 +2,8 @@ pandas
 numpy 
 Flask
 ipykernal
+pandas
+seaborn 
+matplotlib
 
 -e .
